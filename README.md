@@ -2,7 +2,7 @@
 - 👀 I’m interested in Network Infrastructure and Web Development
 - 🌱 I’m currently learning Network Engineering
 - 💞️ I’m looking to collaborate on IOT Engineering
-- 📫 How to reach me ? visit ny web on www.russyanto.site
+- 📫 How to reach me ? visit ny web on www.deffcon.com
 
 <!---
 rusyantonet/rusyantonet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
